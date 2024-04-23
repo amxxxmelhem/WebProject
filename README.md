@@ -1,7 +1,7 @@
-##FashionFiesta
+## FashionFiesta
 This is our project for the Web project.
 
-##Members
+## Members
  Abir Melhem / Moustafa Haydar / Jad Suleiman
 
 ## Installation
