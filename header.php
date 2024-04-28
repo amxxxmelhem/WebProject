@@ -11,7 +11,7 @@ session_start();
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>FashionFiesta</title>
+		<title>Online Shopping</title>
 
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
@@ -123,7 +123,7 @@ session_start();
 				<div class="container">
 					<ul class="header-links pull-left">
 						<li><a href="#"><i class="fa fa-phone"></i> +91-9535688928</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> fashionfiesta@gmail.com</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i> OnlineShop@gmail.com</a></li>
 						<li><a href="#"><i class="fa fa-map-marker"></i>Lebanon</a></li>
 					</ul>
 					<ul class="header-links pull-right">
