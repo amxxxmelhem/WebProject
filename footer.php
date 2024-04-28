@@ -12,7 +12,7 @@
 								<ul class="footer-links">
 									<li><a href="#"><i class="fa fa-map-marker"></i>Lebanon</a></li>
 									<li><a href="#"><i class="fa fa-phone"></i>+91-9535688928</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>fashionfiesta@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>OnlineShop@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -27,8 +27,7 @@
 							</ul>
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Fashion-Fiesta &copy; 2019 | Your <i class="fa fa-heart-o" aria-hidden="true"></i> 
-Online Shop</a>
+								Online Shopping &copy; 2019 | All rights reserved</a>
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 						</div>
