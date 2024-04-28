@@ -1,4 +1,4 @@
-## FashionFiesta
+## OnlineShop
 This is our project for the Web project.
 
 ## Members
